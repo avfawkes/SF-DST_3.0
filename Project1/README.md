@@ -2,7 +2,7 @@
 
 # <center> PROJECT-1. Анализ резюме из HeadHunter
 
-Проект анализа базы резюме HeadHunter. Датасет, с которым велась работа [`здесь`](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
+Проект анализа базы резюме HeadHunter. Датасет, с которым велась работа, [`здесь`](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
 - Исследование структуры данных
 - Преобразование данных
