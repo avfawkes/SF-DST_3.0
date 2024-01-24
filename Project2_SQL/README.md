@@ -11,10 +11,10 @@
 
 ## Оглавление
 
-- [Задача](https://github.com/avfawkes/SF-DST_3.0/new/main/Project2_SQL/README.md#Задача)  
-- [Структура данных](https://github.com/avfawkes/SF-DST_3.0/new/main/Project2_SQL/README.md#Структура-данных)  
-- [Этапы работы над проектом](https://github.com/avfawkes/SF-DST_3.0/new/main/Project2_SQL/README.md#Этапы-работы-над-проектом)  
-- [Результат](https://github.com/avfawkes/SF-DST_3.0/new/main/Project2_SQL/README.md#Результат)  
+- [Задача](https://github.com/avfawkes/SF-DST_3.0/main/Project2_SQL/README.md#Задача)  
+- [Структура данных](https://github.com/avfawkes/SF-DST_3.0/main/Project2_SQL/README.md#Структура-данных)  
+- [Этапы работы над проектом](https://github.com/avfawkes/SF-DST_3.0/main/Project2_SQL/README.md#Этапы-работы-над-проектом)  
+- [Результат](https://github.com/avfawkes/SF-DST_3.0/main/Project2_SQL/README.md#Результат)  
 
 ### Задача
 Необходимо подключиться к базе данных с вакансиями портала HeadHunter и исследовать их с целью создания в дальнейшем рекомендательной системы.
